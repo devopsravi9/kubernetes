@@ -1,0 +1,1 @@
+variable "PRIVATE_SUBNET_ID" {}
